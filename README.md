@@ -38,11 +38,11 @@ This project builds a complete data pipeline to process and analyze e-commerce s
 
 ### Sales Analytics Dashboard
 
-![Sales Dashboard](dashboard/sales_dashboard.png)
+<img width="1660" height="906" alt="Image" src="https://github.com/user-attachments/assets/675e8c3d-7e79-4399-9a27-6f5842cee3cc" />
 
 ### Customer Segmentation Dashboard
 
-![Segmentation Dashboard](dashboard/segmentation_dashboard.png)
+<img width="1657" height="898" alt="Image" src="https://github.com/user-attachments/assets/c7da965b-7ecc-4f1b-9176-a697f92492c9" />
 
 ---
 
